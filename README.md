@@ -16,7 +16,7 @@ Hash: faded5e39eda9499a4ad4a2c474ada5759518d35997ec38b6b5c34d4d5add190
 ```
 
 ## Building
-```
+```bash
 $ ./build.sh
 # OR
 $ g++ ./main.cpp -o hash-miner
